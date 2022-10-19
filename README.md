@@ -16,4 +16,4 @@ Repositório para o curso de formadores de pensamento computacional
         <img id="imagem-principal" src="coding-image.png">
 
         <h2>O grupo de <b>Estudos de Formadores em Ação</b> tem como objetivo fornecer uma formação
-                continuada para os profissionais de educação da R
+                continuada para os profissionais de educação da SEED
